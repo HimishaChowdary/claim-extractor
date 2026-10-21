@@ -1,0 +1,20 @@
+SAMPLE DOCUMENT - SYNTHETIC DATA, NOT A REAL PATIENT
+
+CITYCARE MULTISPECIALITY HOSPITAL, Hyderabad
+DISCHARGE SUMMARY & FINAL BILL
+
+Patient: Ravi Kumar          Age/Sex: 45 / M
+Policy No: HLT-2024-558821
+Treating Doctor: Dr. Anjali Rao
+Date of Admission: 12 March 2025
+Date of Discharge: 16 March 2025
+Diagnosis: Acute appendicitis
+Treatment: Laparoscopic appendectomy under general anaesthesia
+
+Bill details:
+Room charges (4 days)      Rs. 16,000
+Surgeon fees               Rs. 25,000
+Operation theatre          Rs. 12,000
+Medicines & consumables    Rs. 7,500
+Investigations             Rs. 4,500
+TOTAL BILLED AMOUNT        Rs. 65,000
